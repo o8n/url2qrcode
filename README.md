@@ -1,13 +1,19 @@
 # QR Code Generator
 
-A simple QR code generator application built with React, TypeScript, and Tailwind CSS.
+This project is a QR Code Generator built with React, TypeScript, and Tailwind CSS.
 
 ## Features
-
 - Generate QR codes from URLs
-- Save QR codes as image files
-- Progressive Web App (PWA) support
-- Responsive design with Tailwind CSS
+- Save QR codes as images
+- Responsive design
+
+## How to Run
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Start the development server with `npm start`.
+
+## Update
+This README file was updated on 2025年4月5日 to include additional details.
 
 ## Technologies Used
 
